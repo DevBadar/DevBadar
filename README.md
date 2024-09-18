@@ -18,7 +18,7 @@
 
 
 
-- 🤖 Software Engineer at **Hareseca LLC.**
+- 🤖 Software Engineer at **Raccoon Tech.**
 
 - 👾 Leading Mobile Development at [YESIST12](https://ieeeyesist12.org/).
   
