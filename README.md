@@ -20,9 +20,9 @@
 
 - 🤖 Software Engineer at **Raccoon Tech.**
 
-- 👾 Leading Mobile Development at [YESIST12](https://ieeeyesist12.org/).
+- 👾 Junior Android/IOS Developer at [Raccoon Tech Ltd](https://Raccoontech.org/).
   
-- 🖥️ Ex [DeXplat](https://www.dexplat.com/home).
+- 🖥️ Ex [SOS](https://www.SOS.com/home).
 
 - 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
@@ -62,15 +62,15 @@
 
 ## My Medium Articles ✍🏻
 
-- [FlutterFire Push Notifications via FCM](https://medium.com/@ahmadexe/flutterfire-push-notifications-via-fcm-flutter-web-b475f3e0a5e2)
+- [FlutterFire Push Notifications via FCM](https://medium.com/@badardaad/flutterfire-push-notifications-via-fcm-flutter-web-b475f3e0a5e2)
 
-- [FlutterGO: A Fullstack Master Class](https://medium.com/@ahmadexe/fluttergo-a-fullstack-master-class-20154dd1d0e5)
+- [FlutterGO: A Fullstack Master Class](https://medium.com/@badardaad/fluttergo-a-fullstack-master-class-20154dd1d0e5)
   
-- [Flutter BloC: Building Block for Event Driven Apps](https://medium.com/@ahmadexe/flutter-bloc-building-block-for-event-driven-flutter-apps-191f11437b0)
+- [Flutter BloC: Building Block for Event Driven Apps](https://medium.com/@badardaad/flutter-bloc-building-block-for-event-driven-flutter-apps-191f11437b0)
 
 - [Getting Start: How to Computer Science](https://medium.com/p/13bc1aee0e48)
 
-- [GO gRPC: Understanding gRPC with Go](https://medium.com/@ahmadexe/go-grpc-understanding-grpc-with-go-a-guide-to-inter-service-communication-ea7eb8749c60)
+- [GO gRPC: Understanding gRPC with Go](https://medium.com/@badardaad/go-grpc-understanding-grpc-with-go-a-guide-to-inter-service-communication-ea7eb8749c60)
 
 
 
@@ -79,14 +79,14 @@
  </p>
 
 ## Stats 📈
-<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadexe&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="ahmadexe" /></p>
+<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badardaad&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="badardaad" /></p>
 
-<p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadexe&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="ahmadexe" /></p> 
+<p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=badardaad&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="badardaad" /></p> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadexe&&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=badardaad&&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/ahmadexe.svg)](https://user-badge.committers.top/pakistan/ahmadexe)
+[![committers.top badge](https://user-badge.committers.top/pakistan/badardaad.svg)](https://user-badge.committers.top/pakistan/badardaad)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadexe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badardaad&label=Profile%20views&color=0e75b6&style=flat" alt="badardaad" /> </p>
 
 
