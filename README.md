@@ -36,7 +36,7 @@
   
 - 📫 How to reach me **badardaad61@gmail.com**
 
-- 📖 Follow me on Medium if you read tech articles [@ahmadexe](https://medium.com/@badardaad).
+- 📖 Follow me on Medium if you read tech articles [@badardaad](https://medium.com/@badardaad).
 
 - 🎙️ Find me speaking at Tech events, conferences, workshops, and bootcamps.
 
